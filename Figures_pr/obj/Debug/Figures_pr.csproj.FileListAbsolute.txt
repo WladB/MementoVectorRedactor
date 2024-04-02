@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Figures_pr\Figures_pr\bin\Debug\Figures_pr.exe.config
+C:\Users\User\source\repos\Figures_pr\Figures_pr\bin\Debug\Figures_pr.exe
+C:\Users\User\source\repos\Figures_pr\Figures_pr\bin\Debug\Figures_pr.pdb
+C:\Users\User\source\repos\Figures_pr\Figures_pr\obj\Debug\Figures_pr.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Figures_pr\Figures_pr\obj\Debug\Figures_pr.Form1.resources
+C:\Users\User\source\repos\Figures_pr\Figures_pr\obj\Debug\Figures_pr.Properties.Resources.resources
+C:\Users\User\source\repos\Figures_pr\Figures_pr\obj\Debug\Figures_pr.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Figures_pr\Figures_pr\obj\Debug\Figures_pr.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Figures_pr\Figures_pr\obj\Debug\Figures_pr.exe
+C:\Users\User\source\repos\Figures_pr\Figures_pr\obj\Debug\Figures_pr.pdb
+C:\Users\User\source\repos\Figures_pr\Figures_pr\obj\Debug\Figures_pr.Editing.resources
+C:\Users\User\source\repos\Figures_pr\Figures_pr\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Figures_pr\Figures_pr\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Figures_pr\Figures_pr\obj\Debug\Figures_pr.csproj.CopyComplete
